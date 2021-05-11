@@ -119,23 +119,23 @@ const DivContent=()=>{
    <tbody>
      <tr>
        <td>Background Color</td>
-       <td>&lt;Div bg="#ffffff" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Div bg="#ffffff" &gt;\&lt;/Div&gt;</td>
      </tr>
      <tr>
      <td>Width</td>
-       <td>&lt;Div width="100%" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Div width="100%" &gt;\&lt;/Div&gt;</td>
      </tr>
      <tr>
      <td>Height</td>
-       <td>&lt;Div height="100%" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Div height="100%" &gt;\&lt;/Div&gt;</td>
      </tr>
      <tr>
      <td> Border Radius</td>
-       <td>&lt;Div radius="25px" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Div radius="25px" &gt;\&lt;/Div&gt;</td>
      </tr>
      <tr>
      <td>Padding</td>
-       <td>&lt;Div padding="10px" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Div padding="10px" &gt;\&lt;/Div&gt;</td>
      </tr>
      <tr>
      </tr>

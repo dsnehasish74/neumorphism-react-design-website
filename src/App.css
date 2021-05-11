@@ -57,3 +57,13 @@ table , th, td{
 td{
   text-align: center;
 }
+
+.installation{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  padding-top: 20px;
+}
+.support{
+  margin-top: 15px;
+}

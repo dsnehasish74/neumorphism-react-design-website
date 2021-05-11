@@ -22,7 +22,7 @@ const DivContent=()=>{
   highlightActiveLine={true}
   value={`
   import React from 'react';
-  import {Div} from 'neumorphism-react-design';
+  import {Button} from 'neumorphism-react-design';
   
   function App() {
     return (
@@ -48,27 +48,27 @@ const DivContent=()=>{
    <tbody>
      <tr>
        <td>Background Color</td>
-       <td>&lt;Div bg="#ffffff" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Button bg="#ffffff" &gt;\&lt;/Button&gt;</td>
      </tr>
      <tr>
-     <td>Width</td>
-       <td>&lt;Div width="100%" &gt;\&lt;/div&gt;</td>
-     </tr>
-     <tr>
-     <td>Height</td>
-       <td>&lt;Div height="100%" &gt;\&lt;/div&gt;</td>
+     <td>Container Background</td> 
+       <td>&lt;Button container_bg="#ffffff" &gt;\&lt;/Button&gt;</td>
      </tr>
      <tr>
      <td> Border Radius</td>
-       <td>&lt;Div radius="25px" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Button radius="25px" &gt;\&lt;/Button&gt;</td>
      </tr>
      <tr>
      <td>Padding</td>
-       <td>&lt;Div padding_ud="10px" padding_lr="20px" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Button padding_ud="10px" padding_lr="20px" &gt;\&lt;/Button&gt;</td>
      </tr>
      <tr>
      <td>Font Size</td>
-       <td>&lt;Div fsize="10px" &gt;\&lt;/div&gt;</td>
+       <td>&lt;Button fontSize="10px" &gt;\&lt;/Button&gt;</td>
+     </tr>
+     <tr>
+     <td>Font Weight</td>
+       <td>&lt;Button fontWeight="10px" &gt;\&lt;/Button&gt;</td>
      </tr>
      
      <tr>
